@@ -13,9 +13,11 @@ h1{
 	color: white;
 }
 
+
 header img{
-border-radius: 150px;
-border: 10px solid ;
+border-radius: 175px;
+width: 300px;
+border: 10px solid black;
 }
 .content{
 	max-width: 800px;
@@ -44,7 +46,7 @@ a{
 }
 
 footer{
-	margin: 0;
+	margin-top: 20px;
 	padding: 40px 20px;
 	text-align: center;
 	background-color: #e6e6e6
